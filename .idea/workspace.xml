@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6dbb5a6-a4e9-456f-8ee8-ed325c58cf83" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDelete/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDelete/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDelete/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDelete/customify.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDelete/libs/mysql-connector-java-8.0.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDelete/src/com/customify/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDelete/src/com/customify/client/Common.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDelete/src/com/customify/client/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDelete/src/com/customify/client/services/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDelete/src/com/customify/client/views/Home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDelete/src/com/customify/client/views/LoginView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDelete/src/com/customify/client/views/SignupView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDelete/src/com/customify/server/Db/Db.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDelete/src/com/customify/server/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDelete/src/com/customify/server/controllers/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDelete/src/com/customify/server/controllers/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDelete/src/com/customify/server/models/ProductModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDelete/src/com/customify/server/models/UserModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDelete/src/com/customify/server/routes/AuthRoute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDelete/src/com/customify/server/routes/HandleRoutes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDelete/src/com/customify/server/services/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDelete/src/com/customify/server/utils/ConnectionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDelete/src/com/customify/server/utils/PrepareJson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDelete/src/com/customify/shared/Keys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDelete/src/com/customify/shared/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDelete/src/com/customify/shared/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDelete/src/com/customify/shared/requests_data_formats/LoginFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDelete/src/com/customify/shared/requests_data_formats/SignUpFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDelete/src/com/customify/shared/responses_data_format/AuthFromats/SuccessLoginFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ToDelete/src/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__com_h2database_h2_1_4_200.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__com_sun_istack_istack_commons_runtime_3_0_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__com_zaxxer_HikariCP_3_4_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__jakarta_persistence_jakarta_persistence_api_2_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__jakarta_transaction_jakarta_transaction_api_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__junit_junit_4_13_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_10_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_10_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_41.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_assertj_assertj_core_3_18_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_dom4j_dom4j_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_glassfish_jaxb_jaxb_runtime_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_glassfish_jaxb_txw2_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_hamcrest_hamcrest_core_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_hibernate_hibernate_c3p0_5_3_6_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_hibernate_hibernate_core_5_4_25_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_jasypt_jasypt_1_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_javassist_javassist_3_27_0_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_jboss_jandex_2_1_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_4_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_mockito_mockito_core_3_6_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_3_6_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_objenesis_objenesis_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_projectlombok_lombok_1_18_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_springframework_spring_aop_5_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_springframework_spring_aspects_5_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_springframework_spring_beans_5_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_springframework_spring_context_5_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_springframework_spring_core_5_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_springframework_spring_expression_5_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_springframework_spring_orm_5_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_springframework_spring_test_5_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_springframework_spring_tx_5_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_springframework_spring_web_5_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_webjars_bootstrap_3_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_webjars_jquery_2_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/libraries/Maven__org_yaml_snakeyaml_1_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/ecommerce.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/gura_hafi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/main/java/com/GuraHafi/GuraHafiApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/main/java/com/GuraHafi/controllers/SellerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/main/java/com/GuraHafi/domain/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/main/java/com/GuraHafi/domain/CustomerOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/main/java/com/GuraHafi/domain/CustomerOrderProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/main/java/com/GuraHafi/domain/CustomerVerifiedInShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/main/java/com/GuraHafi/domain/Market.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/main/java/com/GuraHafi/domain/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/main/java/com/GuraHafi/domain/ProductCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/main/java/com/GuraHafi/domain/ProductSubCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/main/java/com/GuraHafi/domain/Seller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/main/java/com/GuraHafi/domain/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/main/java/com/GuraHafi/domain/ShopCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/main/java/com/GuraHafi/domain/ShopProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/main/java/com/GuraHafi/domain/ShopProductFeedback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/main/java/com/GuraHafi/services/CRUDService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/main/java/com/GuraHafi/services/jpaservices/AbstractJpaDaoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/main/java/com/GuraHafi/services/jpaservices/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/main/java/com/GuraHafi/services/plainservices/CustomerOrderProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/main/java/com/GuraHafi/services/plainservices/CustomerOrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/main/java/com/GuraHafi/services/plainservices/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/main/java/com/GuraHafi/services/plainservices/CustomerVerifiedInShopService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/main/java/com/GuraHafi/services/plainservices/MarketService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/main/java/com/GuraHafi/services/plainservices/ProductCategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/main/java/com/GuraHafi/services/plainservices/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/main/java/com/GuraHafi/services/plainservices/ProductSubCategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/main/java/com/GuraHafi/services/plainservices/SellerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/main/java/com/GuraHafi/services/plainservices/ShopCategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/main/java/com/GuraHafi/services/plainservices/ShopProductFeedbackService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/main/java/com/GuraHafi/services/plainservices/ShopProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/main/java/com/GuraHafi/services/plainservices/ShopService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/src/test/java/com/GuraHafi/GuraHafiApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/GuraHafiApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/controllers/ProductForTestingController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/controllers/SellerController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/domain/Customer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/domain/CustomerOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/domain/CustomerOrderProduct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/domain/CustomerVerifiedInShop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/domain/Market.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/domain/Product.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/domain/ProductCategory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/domain/ProductForTesting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/domain/ProductSubCategory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/domain/Seller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/domain/Shop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/domain/ShopCategory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/domain/ShopProduct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/domain/ShopProductFeedback.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/services/CRUDService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/services/ProductForTestingService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/services/ProductForTestingServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/services/jpaservices/AbstractJpaDaoService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/services/jpaservices/CustomerServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/services/plainservices/CustomerOrderProductService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/services/plainservices/CustomerOrderService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/services/plainservices/CustomerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/services/plainservices/CustomerVerifiedInShopService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/services/plainservices/MarketService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/services/plainservices/ProductCategoryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/services/plainservices/ProductService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/services/plainservices/ProductSubCategoryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/services/plainservices/SellerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/services/plainservices/ShopCategoryService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/services/plainservices/ShopProductFeedbackService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/services/plainservices/ShopProductService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/classes/com/GuraHafi/services/plainservices/ShopService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/copy/target/test-classes/com/GuraHafi/GuraHafiApplicationTests.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/customify" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nb_backend" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/customify/com/customify/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/customify/com/customify/client/Common.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/customify/com/customify/client/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/customify/com/customify/client/services/AuthService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/customify/com/customify/client/services/BusinessService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/customify/com/customify/client/services/ProductService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/customify/com/customify/client/views/Business/BusinessRegisterView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/customify/com/customify/client/views/Home.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/customify/com/customify/client/views/LoginView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/customify/com/customify/client/views/SignupView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/customify/com/customify/server/Db/Db.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/customify/com/customify/server/controllers/AuthController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/customify/com/customify/server/routes/AuthRoute.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/customify/com/customify/server/services/AuthService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/customify/com/customify/server/utils/PrepareJson.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/customify/com/customify/shared/Response.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/customify/com/customify/shared/requests_data_formats/BusinessFormat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/customify/com/customify/shared/requests_data_formats/LoginFormat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/customify/com/customify/shared/requests_data_formats/ProductFormat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/customify/com/customify/shared/requests_data_formats/SignUpFormat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/customify/com/customify/shared/responses_data_format/AuthFromats/SuccessLoginFormat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/production/customify/src.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customify/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/customify/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/customify/src/com/customify/server/services/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/customify/src/com/customify/server/services/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nb_backend/src/main/java/com/GuraHafi/controllers/ShopProductFeedbackController.java" beforeDir="false" afterPath="$PROJECT_DIR$/nb_backend/src/main/java/com/GuraHafi/controllers/ShopProductFeedbackController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ngxouJ2nxvX5dnZ7WQdWBa1cuU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Spring-boot-restful-api-jwt-authentication" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6dbb5a6-a4e9-456f-8ee8-ed325c58cf83" name="Default Changelist" comment="" />
+      <created>1611825714282</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611825714282</updated>
+      <workItem from="1611825715360" duration="128000" />
+      <workItem from="1613989782289" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
